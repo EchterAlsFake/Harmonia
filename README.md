@@ -1,2 +1,2 @@
-# Harmonia
-a Python library for tagging music files allowing for commercial LGPL usage
+> [!NOTE]
+> This thing is still in development
